@@ -33,7 +33,7 @@
 "Python para automatización, diseño de Datalakes o cómo optimizar reportes repetitivos."
 
 📫 Cómo contactarme:
-"LinkedIn: [(https://www.linkedin.com/in/cirilo-bomayé-cathi/)] | Email: thebomayer@gmail.com"
+"LinkedIn: [LinkedIn](https://www.linkedin.com/in/cirilo-bomayé-cathi/) | Email: thebomayer@gmail.com"
 
 😄 Activiades fuera del trabajo: Desconectarme en la naturaleza para equilibrar mente y cuerpo: senderismo, deportes al aire libre y aprovechar el silencio para recargar energías.
 
