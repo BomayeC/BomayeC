@@ -2,6 +2,9 @@
   <img decoding="async" src="assets/Banner Para LinkedIn Desarrollador De Software Moderno Negro.png" width="800"/>
 </div>
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cirilo-bomayé-cathi/)
+
+
 ## Hi there 👋
 
 <!--
